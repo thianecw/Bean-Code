@@ -57,7 +57,7 @@ section {
 }
 
 .navbar a:hover {
-    color: var(--main-color);
+    color: #e89b7e;
     padding-bottom: 0.5rem;
     opacity: 0.5;
 }
